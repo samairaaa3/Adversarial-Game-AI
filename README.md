@@ -24,7 +24,7 @@ This project implements adversarial game-playing agents using classical search a
 - `util.py` — Shared utility functions used by the agents (if included).  
 - `game.py` — Game definitions and interfaces (if included).
 
-## How to Run (Conceptual)
+## How to Run 
 
 This project is designed to plug into a turn-based game environment (for example, a grid-based or Pacman-style game). A typical run command in a compatible environment might look like:
 
