@@ -27,8 +27,8 @@ This project implements adversarial game-playing agents using classical search a
 ## How to Run 
 
 This project is designed to plug into a turn-based game environment (for example, a grid-based or Pacman-style game). A typical run command in a compatible environment might look like:
-
-```bash
 python your_game_driver.py -p MinimaxAgent
 python your_game_driver.py -p AlphaBetaAgent
 python your_game_driver.py -p MonteCarloAgent
+## screenshot
+<img width="1470" height="956" alt="Screenshot 2025-11-20 at 7 45 39 PM" src="https://github.com/user-attachments/assets/4e9c2381-27dd-44ac-b7fe-a972a54474fd" />
